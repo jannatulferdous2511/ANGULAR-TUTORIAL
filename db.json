@@ -17,6 +17,24 @@
       "text": "Food Shopping",
       "day": "May 7th at 12:30pm",
       "reminder": false
+    },
+    {
+      "text": "roby",
+      "day": "23",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "mini",
+      "day": "23/2/2021",
+      "reminder": true,
+      "id": 5
+    },
+    {
+      "text": "sony",
+      "day": "27/1/2022",
+      "reminder": true,
+      "id": 6
     }
   ]
 }
